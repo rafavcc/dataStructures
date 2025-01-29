@@ -1,7 +1,6 @@
 # Create Node
 # Node: data + next
 
-
 class Node:
     def __init__(self, data):
         self.data = data
@@ -9,7 +8,6 @@ class Node:
 
 
 #Create linked list
-
 class LinkedList:
 # Only contains a head, which is a node
     def __init__(self):
