@@ -1,3 +1,6 @@
+# A trie is a tree-like data structure, where each node represents a character
+# and the paths from the root to certain trees form words.
+
 # Create the Trie Node itself
 class TrieNode:
     def __init__(self):
